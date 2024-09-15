@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/anujahlawat/Documents/ds.datapacker0024/2.8 MLOps/3.1 code management/3.4 version control/temp-pipeline-versions
